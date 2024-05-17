@@ -1,0 +1,19 @@
+# Hello world
+- [X] Python
+- [X] Bash
+- [X] Z shell
+- [X] Fish
+- [X] Java
+- [X] JavaScript
+- [X] Lua
+- [X] Crystal
+- [X] Nim
+- [ ] TypeScript
+- [ ] Dart
+- [ ] Kotlin
+- [ ] Go
+- [ ] Elvish
+- [ ] C#
+- [ ] C++
+- [ ] Rust
+- [ ] Perl
