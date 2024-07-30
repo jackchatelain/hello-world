@@ -8,12 +8,12 @@
 - [X] Lua
 - [X] Crystal
 - [X] Nim
+- [X] Kotlin
+- [ ] C#
 - [ ] TypeScript
 - [ ] Dart
-- [ ] Kotlin
 - [ ] Go
 - [ ] Elvish
-- [ ] C#
 - [ ] C++
 - [ ] Rust
 - [ ] Perl
